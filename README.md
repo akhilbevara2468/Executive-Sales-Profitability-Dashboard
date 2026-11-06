@@ -15,7 +15,7 @@ It helps management understand sales trends, identify profitable regions, and ev
 
 ## Dashboard Preview
 
-![Executive Sales Dashboard](Sales%20Dashboard.png)
+![Executive Sales Dashboard](Sales_Dashboard.png)
 
 ## Dashboard Features
 - Monthly Revenue and Gross Profit Analysis
