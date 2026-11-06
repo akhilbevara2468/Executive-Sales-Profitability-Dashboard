@@ -13,6 +13,9 @@ It helps management understand sales trends, identify profitable regions, and ev
 - Data Visualization
 - Geographical Map Charts
 
+## Dashboard Preview
+!Summery Dashboard(Sales_Dashboard.png)
+
 ## Dashboard Features
 - Monthly Revenue and Gross Profit Analysis
 - Top Five Countries by Revenue
